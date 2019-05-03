@@ -1,4 +1,4 @@
-# chat-vuex
+# vue-books
 
 ## Project setup
 ```
